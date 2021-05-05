@@ -1,3 +1,4 @@
 /node_modules
+/electron-vue/node_modules
 package-lock.json
 out/
